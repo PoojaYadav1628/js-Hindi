@@ -37,4 +37,4 @@ because of issue in block scope and functional  scope
 
 
  console.log(accountId);// for 1 value 
-console.table ([ accountEmail,accountId,accountPassword,accountCity,accountState]);   // for multip value change
+console.table ([ accountEmail,accountId,accountPassword,accountCity,accountState])   // for multip value change
