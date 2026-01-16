@@ -1,18 +1,8 @@
-let accountState;
+"use strict"; // treat all Js code as newer version 
 
-// accountId=2// not allowed to change const
+alert(3+3) // we are using node js,not browser
 
-// this way to change value of const 
-accountEmail="hc@hc.com"
-accountPassword ="128734"
-accountCity="Raipur"
+console.log (3+
+    3); // code reabadility should be high
 
-/*
-prefer not use var
-because of issue in block scope and functional  scope
-
-*/
-
-
- console.log(accountId);// for 1 value 
-console.table ([ accountEmail,accountId,accountPassword,accountCity,accountState]);   // for multip value change
+console.log("Pooja")
