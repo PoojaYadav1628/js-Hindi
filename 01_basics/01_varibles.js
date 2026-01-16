@@ -20,7 +20,7 @@ because of issue in block scope and functional  scope
 
 
 console.log(accountId);// for 1 value 
-console.table ([ accountEmail,accountId,accountPassword,let accountState;
+console.table ([ accountEmail,accountId,accountPassword,let accountState]);
 
 // accountId=2// not allowed to change const
 
