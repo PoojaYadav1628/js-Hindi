@@ -7,4 +7,9 @@ const myArr= [0,1, 2, 3, 4, 5 ]
 // array can hold different types of data 
 const myHeros= [ "John ","naag" ]
 const myArr2 =new Array(1,2,3,4,5) // another way to create array
-console.log(myArr2[0]);
+console.log(myArr[3]);
+
+//Array methods 
+
+myArr.push(6) // add element at the end of the array
+console.log(myArr);
