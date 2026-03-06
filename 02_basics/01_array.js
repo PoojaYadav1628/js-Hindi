@@ -12,4 +12,6 @@ console.log(myArr[3]);
 //Array methods 
 
 myArr.push(6) // add element at the end of the array
+myArr.push(7) // add element at the end of the array    
+myArr.pop
 console.log(myArr);
